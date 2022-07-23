@@ -19,6 +19,7 @@ function Hide()
     SendNUIMessage({
         ui = 'close'
     })
+    IsShowing = false
 end
 
 exports('Show', Show)
