@@ -9,6 +9,8 @@ fivem dev-progress
 ![alt text](https://github.com/omar-othmann/dev-progress/blob/main/loading-3.PNG)
 ![alt text](https://github.com/omar-othmann/dev-progress/blob/main/loading-4.PNG)
 
+video: https://streamable.com/chkagk
+
 
 # usage
 
