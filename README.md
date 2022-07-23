@@ -23,7 +23,7 @@ if not success then
   -- you already doing something.
 end
 
-local success = exports['dev-progress']:Show('Loading ...', 10000, function()
+local success = exports['dev-progress']:Show('Loading...', 10000, function()
                   -- progress time finish do something.
                 end)
 
