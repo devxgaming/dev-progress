@@ -33,12 +33,3 @@ RegisterNUICallback('OnFinish', function()
         CanCallback = nil
     end
 end)
-
-
-RegisterCommand('test', function(source, args)
-    if args[1] then
-        local success = Show(args[1], args[2], function()
-            print('Successfully finish.')
-        end)
-    end
-end)
